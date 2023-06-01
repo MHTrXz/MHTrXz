@@ -27,7 +27,6 @@
 <p align="left">
 
 <a href="https://instagram.com/mh_trxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mh_trxz" height="30" width="40" /></a>
-
 <a href="https://github.com/MHTrXz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MHTrXz" height="30" width="40" /></a>
 
 </p>
