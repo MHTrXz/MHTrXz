@@ -31,7 +31,6 @@ I started as a web developer, building scalable and efficient applications using
 ### 🛠 DevOps & Tools
 - Docker, Kubernetes, CI/CD, Git, GitHub Actions
 - Jupyter Notebook, Google Colab, Hugging Face Hub
-- Cloud Platforms: AWS, Google Cloud, Azure
 
 ---
 
