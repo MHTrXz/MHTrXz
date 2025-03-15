@@ -1,52 +1,92 @@
-<h1 align="center">Hi 👋, I'm Mohammad H. Hashemi</h1>
+# Hi 👋, I'm Mohammad H. Hashemi
 
-<h3 align="center">An AI & Machine Learning Engineer with a background in Web Development</h3>
+## 🚀 About Me
+I'm an **AI & Machine Learning Engineer** with a background in **Web Development**. My main focus is on **Deep Learning, NLP, and Computer Vision**. I have experience working with various AI models, including **Transformers, CNNs, and RNNs**, and I actively work on **fine-tuning Large Language Models (LLMs)** for medical applications.
 
-- 🔭 I’m currently working on **AI, Machine Learning, and Deep Learning projects**
-- 🌱 I’m currently learning **Transformer models, Reinforcement Learning, and Large Language Models (LLMs)**
-- 👯 I’m looking to collaborate on **AI-driven applications, NLP, and computer vision projects**
-- 🤝 I’m looking for help with **fine-tuning large language models for Persian medical applications**
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/MHTrXz)
-- 📝 I regularly write about AI and ML on [MHTrXz.com](MHTrXz.com)
-- 💬 Ask me about **Python, PyTorch, TensorFlow, Deep Learning, and Web Development**
-- 📫 How to reach me **hoseinmohammad2381@gmail.com**
-- ⚡ Fun fact: **I started as a web developer but fell in love with AI!**
+I started as a web developer, building scalable and efficient applications using **Laravel, Node.js, and React**, but later shifted my focus towards **Artificial Intelligence and Machine Learning**.
 
-<h3 align="left">Connect with me:</h3>
+---
 
-<p align="left">
-<a href="https://instagram.com/mh_trxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mh_trxz" height="30" width="40" /></a>
-<a href="https://github.com/MHTrXz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MHTrXz" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammad-hosein-hashemi-31734a288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="mohammad-hosein-hashemi" height="30" width="40" /></a>
-</p>
+## 🎯 Skills & Technologies
 
-<h3 align="left">Languages and Tools:</h3>
+### 🧠 AI & Machine Learning
+- **Deep Learning**: CNN, RNN, LSTM, GRU, Transformers
+- **NLP**: Hugging Face, GPT, BERT, Word Embeddings
+- **Computer Vision**: OpenCV, YOLO, ResNet
+- **Machine Learning**: Scikit-learn, XGBoost, SVM, Decision Trees
+- **Reinforcement Learning**: DQN, PPO, A3C
+- **Frameworks & Libraries**: PyTorch, TensorFlow, Keras
 
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.opencv.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</p>
+### 💻 Programming Languages
+- Python, C++, Java, PHP, JavaScript
+
+### 🗄️ Databases
+- MySQL, PostgreSQL, MongoDB
+
+### 🌐 Web Development
+- **Backend**: Laravel, Node.js, Express.js
+- **Frontend**: React, Next.js, Tailwind CSS
+- **API Development**: RESTful APIs, GraphQL, Web Scraping
+
+### 🛠 DevOps & Tools
+- Docker, Kubernetes, CI/CD, Git, GitHub Actions
+- Jupyter Notebook, Google Colab, Hugging Face Hub
+- Cloud Platforms: AWS, Google Cloud, Azure
+
+---
+
+## 📌 Notable Projects
+
+### 1️⃣ **Fine-tuning Persian Medical Assistant (LLM-based)**  
+- **Tech Used**: Transformer models, Hugging Face, PyTorch, TensorFlow  
+- **Description**: Fine-tuning large language models for Persian medical applications, optimizing SFT (Supervised Fine-Tuning) and RAG (Retrieval-Augmented Generation).
+- **Repo**: [GitHub Link](https://github.com/MHTrXz/lm-evaluation-harness_medical_bilingual)
+
+### 2️⃣ **Smile Detection using Deep Learning**  
+- **Tech Used**: CNN, OpenCV, TensorFlow, Keras  
+- **Description**: Built a real-time facial emotion recognition model for detecting smiles.
+- **Repo**: [GitHub Link](https://github.com/MHTrXz/smile_detection)
+
+### 3️⃣ **Multi-Agent Pacman AI**  
+- **Tech Used**: Reinforcement Learning, Minimax Algorithm, Alpha-Beta Pruning  
+- **Description**: Implemented AI agents for solving Pacman using RL algorithms.
+- **Repo**: [GitHub Link](https://github.com/MHTrXz/Pacman_Multi-Agent)
+
+For more projects, check my [GitHub Profile](https://github.com/MHTrXz) 🚀
+
+---
+
+## 🎓 Education & Experience
+
+### 🎓 **Education**
+- **BSc in Computer Engineering - AI** (University of Isfahan, 2020 - Present)
+- **Specialized in AI & Deep Learning**
+
+### 💼 **Work Experience**
+- **AI Intern** (IRISA Company) – Focused on Anomaly Detection in Industrial Machinery
+- **Web & AI Developer** (Imen Sepahan) – Built AI-driven applications & web services
+- **Full Stack Developer** (Ifund) – Developed Laravel & React-based applications
+
+---
+
+## 🏆 Achievements & Awards
+- **First Place in ACM Programming Contest - Shahr-e-Kord (2023)**
+- **Top Student in AI & ML Courses**
+- **Contributed to Open-Source AI Projects**
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MHTrXz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHTrXz&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+- **Email**: hoseinmohammad2381@gmail.com
+- **GitHub**: [MHTrXz](https://github.com/MHTrXz)
+- **LinkedIn**: [Mohammad Hosein Hashemi](https://www.linkedin.com/in/mohammad-hosein-hashemi-31734a288)
+- **Instagram**: [mh_trxz](https://instagram.com/mh_trxz)
+- **Telegram**: [MHTrXz](http://t.me/MHTrXz)
+
+---
